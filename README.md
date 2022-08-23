@@ -30,6 +30,4 @@ I wanted to create a todo list from scratch but add on more elements to test my 
 
 ## Usage
 
-The use of this application s for users to log into their own personal accounts and have a place to jot down their notes, listen to music and keep track of their daly tasks.
-
-
+The use of this application s for users to log into their own personal accounts and have a place to write down their notes, listen to music and keep track of their daly tasks.
